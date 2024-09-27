@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>HAP - Health and Psychology</title>
-</head>
 <body>
 
 <h1>HAP - Health and Psychology</h1>
